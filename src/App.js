@@ -22,5 +22,5 @@ function App() {
     </div>
   );
 }
-// chore: 디폴트 브랜치 main 변경 확인
+
 export default App;
